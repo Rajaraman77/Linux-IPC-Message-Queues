@@ -87,7 +87,6 @@ int main()
 
 
 
-
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/7b3bc142-9cc7-4466-9494-feb71089d221)
 
